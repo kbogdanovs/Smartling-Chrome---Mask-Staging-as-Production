@@ -1,1 +1,1 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+This makes Staging look like Prod in the Smartling Dashboard - i.e. removes yellow colouring from the banner.
